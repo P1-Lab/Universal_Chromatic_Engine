@@ -1,131 +1,107 @@
-Universal_Chromatic_Engine
-Universal Chromatic Engine (UCE™) | The Open Standard for Dry-Phase Biological Pigment Stabilization. Deleting liquid-phase logistics and synthetic dyes via a modular, micronized CMYK model.
-<P>
-  <div class="mil-spec-document">
+<section style="font-family:Arial,Helvetica,sans-serif;color:#111;line-height:1.55;max-width:1100px;margin:auto;padding:24px;background:#fff;">
 
-  <h1>Universal Chromatic Engine (UCE™)</h1>
-  <h2> The Open Specification for Dry-Phase Biological Color</h2>
+<p style="margin:0 0 6px 0;font-size:30px;font-weight:700;">Universal Chromatic Engine (UCE™)</p>
+<p style="margin:0 0 4px 0;font-size:18px;font-weight:600;">The Open Specification for Dry-Phase Biological Pigment Stabilization</p>
 
-  <p>
-    <strong>Standard Version:</strong> 1.0.0<br/>
-    <strong>Compliance Grade:</strong> LITH-UCE-STD-01<br/>
-    <strong>Maintainer:</strong> The Sovereign Estate<br/>
-    <strong>License:</strong> MIT
-  </p>
+<p style="margin:0 0 18px 0;font-size:14px;color:#444;">
+<strong>Standard Version:</strong> 1.0.0<br>
+<strong>Compliance Grade:</strong> LITH-UCE-STD-01<br>
+<strong>Maintainer:</strong> The Sovereign Estate<br>
+<strong>License:</strong> MIT
+</p>
 
-  <hr/>
+<hr style="border:none;border-top:1px solid #ccc;margin:18px 0;">
 
-  <h2>1. THE VISION: THE END OF LIQUID LOGISTICS</h2>
+<h2 style="font-size:20px;margin:22px 0 10px 0;">1. THE VISION: STANDARDIZED DRY-PHASE CMYK</h2>
 
-  <p>
-    The global food colorant industry remains constrained by an inefficient liquid-phase paradigm:
-    shipping water, refrigeration load, and instability. The <strong>Universal Chromatic Engine (UCE™)</strong>
-    is an open specification intended to transition the supply chain toward a
-    <strong>standardized dry-phase CMYK model</strong>.
-  </p>
+<p style="margin:0 0 16px 0;">
+The <strong>Universal Chromatic Engine (UCE™)</strong> is an open technical specification intended to transition food manufacturing from unstable liquid-phase pigment systems toward a standardized dry-phase color architecture.
+</p>
 
-  <p>
-    By separating the <strong>Physics of the Base</strong> from the
-    <strong>Chemistry of the Pigment</strong>, biological colors may be stabilized for
-    industrial environments that traditionally favored synthetic dyes.
-  </p>
+<p style="margin:0 0 16px 0;">
+By isolating biological pigments within a micronized, low-moisture carrier matrix, the protocol aims to improve thermal tolerance, storage stability, and transport efficiency while reducing dependence on synthetic stabilizers and liquid logistics.
+</p>
 
-  <hr/>
+<h2 style="font-size:20px;margin:24px 0 10px 0;">2. THE INDUSTRIAL PROBLEM: PIGMENT INSTABILITY</h2>
 
-  <h2>2. THE PROBLEM: THE NATURAL PIGMENT PARADOX</h2>
+<p style="margin:0 0 10px 0;">Many natural colorant systems face recurring technical constraints:</p>
 
-  <p>
-    Current natural color systems commonly face three operational barriers:
-  </p>
+<ul style="margin:0 0 16px 22px;padding:0;">
+<li><strong>Instability:</strong> Pigments such as anthocyanins, betalains, and curcuminoids can degrade under pH shifts, elevated water activity, oxygen exposure, and heat.</li>
+<li><strong>Logistical Burden:</strong> Liquid systems increase transport mass, storage requirements, and cold-chain dependency.</li>
+<li><strong>Regulatory Complexity:</strong> Liquid food systems may require additional process controls depending on formulation and jurisdiction.</li>
+</ul>
 
-  <ol>
-    <li><strong>Instability:</strong> Anthocyanins, betalains, and phycocyanins may degrade under heat, fluctuating pH, or elevated water activity.</li>
-    <li><strong>Logistical Deadweight:</strong> Liquid systems increase freight mass and frequently require cold-chain controls.</li>
-    <li><strong>Regulatory Burden:</strong> Certain liquid acidified products may face more complex processing and compliance requirements than dry systems.</li>
-  </ol>
+<h2 style="font-size:20px;margin:24px 0 10px 0;">3. ARCHITECTURAL PILLARS</h2>
 
-  <hr/>
+<p style="margin:0 0 14px 0;">
+The UCE™ framework uses a modular separation model consisting of two functional layers:
+</p>
 
-  <h2>3. THE ARCHITECTURE: BASE + LOAD-OUT</h2>
+<h3 style="font-size:17px;margin:18px 0 8px 0;">A. Neutral Chromatic Base (NCB)</h3>
 
-  <h3>A. The Neutral Chromatic Base (NCB)</h3>
+<p style="margin:0 0 14px 0;">
+A porous carrier matrix targeting fine particle distribution (<strong>D90 ≤ 5.0 μm</strong>) designed to host pigment payloads. Example formulations may use polysaccharides, starch derivatives, fibers, and food-grade lipids to provide moisture management and thermal buffering.
+</p>
 
-  <p>
-    A dry particulate matrix designed to provide physical protection, thermal buffering,
-    and shelf stability.
-  </p>
+<h3 style="font-size:17px;margin:18px 0 8px 0;">B. Programmable Load-Out (PLO)</h3>
 
-  <ul>
-    <li><strong>Target Particle Size:</strong> ≤ 5 μm (design target)</li>
-    <li><strong>Reference Ratio:</strong> 12:7:1</li>
-    <li><strong>Functional Elements:</strong> Cross-linked glucans, micronized lipids, pH-governing agents</li>
-  </ul>
+<p style="margin:0 0 16px 0;">
+Concentrated biological pigments deposited onto or within the carrier matrix. Release behavior may be influenced by heat, hydration, shear, or pH depending on the selected encapsulation chemistry.
+</p>
 
-  <h3>B. The Programmable Load-Out (PLO)</h3>
+<h2 style="font-size:20px;margin:24px 0 10px 0;">4. HARDWARE IMPLEMENTATION: THE AER PLATFORM</h2>
 
-  <p>
-    Concentrated biological pigments coupled to the NCB matrix. Payloads remain sequestered
-    until exposure to a defined activation pathway such as hydration, shear, or thermal input.
-  </p>
+<p style="margin:0 0 14px 0;">
+The UCE™ Standard is hardware-agnostic and may be implemented by facilities capable of achieving the required particle-size, moisture, and blending tolerances.
+</p>
 
-  <hr/>
+<p style="margin:0 0 16px 0;">
+For advanced embodiments requiring higher consistency or difficult pigments, the <strong>Aer Engine</strong> is presented as a reference platform optimized for micronization, controlled lamination, and high-shear integration.
+</p>
 
-  <h2>4. THE WEDGE: HARDWARE SYNCHRONIZATION</h2>
+<h2 style="font-size:20px;margin:24px 0 10px 0;">5. REPOSITORY DIRECTORY</h2>
 
-  <p>
-    While the UCE™ specification is open for implementation under the MIT License,
-    high-precision execution of ultra-fine lamination and vitrification workflows may
-    require specialized processing hardware.
-  </p>
+<ul style="margin:0 0 16px 22px;padding:0;">
+<li><strong>/TECHNICAL_GLOSSARY.md</strong> — Definitions of engineering terminology.</li>
+<li><strong>/SPEC_01_BASE.md</strong> — Example carrier-base formulations and particle-size standards.</li>
+<li><strong>/SPEC_02_LOADOUTS.md</strong> — Pigment payload architectures across the CMYK spectrum.</li>
+<li><strong>/EMBODIMENTS.md</strong> — Standard industrial and Aer-optimized implementation tiers.</li>
+</ul>
 
-  <p>
-    Conventional high-shear systems may generate excess thermal load or inadequate particle control.
-    The <strong>Aer Engine</strong> is positioned as a reference platform for repeatable execution
-    of the standard.
-  </p>
+<h2 style="font-size:20px;margin:24px 0 10px 0;">6. COMPLIANCE METRICS</h2>
 
-  <hr/>
+<p style="margin:0 0 10px 0;">To certify a material as <strong>UCE™ Compliant</strong>, it should demonstrate:</p>
 
-  <h2>5. REPOSITORY DIRECTORY</h2>
+<table style="width:100%;border-collapse:collapse;font-size:14px;margin-bottom:18px;">
+<thead>
+<tr style="background:#f2f2f2;">
+<th style="border:1px solid #ccc;padding:8px;text-align:left;">Metric</th>
+<th style="border:1px solid #ccc;padding:8px;text-align:left;">Target</th>
+<th style="border:1px solid #ccc;padding:8px;text-align:left;">Purpose</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="border:1px solid #ccc;padding:8px;">Particle Size</td>
+<td style="border:1px solid #ccc;padding:8px;">D90 ≤ 5.0 μm</td>
+<td style="border:1px solid #ccc;padding:8px;">Smooth mouthfeel and dispersion</td>
+</tr>
+<tr>
+<td style="border:1px solid #ccc;padding:8px;">Thermal Latency</td>
+<td style="border:1px solid #ccc;padding:8px;">No premature color release below defined threshold</td>
+<td style="border:1px solid #ccc;padding:8px;">Process stability</td>
+</tr>
+<tr>
+<td style="border:1px solid #ccc;padding:8px;">Moisture Content</td>
+<td style="border:1px solid #ccc;padding:8px;">&lt; 3%</td>
+<td style="border:1px solid #ccc;padding:8px;">Shelf-life support</td>
+</tr>
+</tbody>
+</table>
 
-  <ul>
-    <li><strong>/SPECIFICATION_BASE.md</strong> — 12:7:1 NCB formulation and barrier-layer mechanics.</li>
-    <li><strong>/PAYLOAD_LOADOUTS.md</strong> — Protocols for Obsidian, Solar, Azure, and Crimson payloads.</li>
-    <li><strong>/ACTIVATION_LOGIC.md</strong> — Thermal versus kinetic trigger pathways.</li>
-    <li><strong>/CORE_INTEGRATION.md</strong> — Aer Engine tolerances and benchmark outputs.</li>
-    <li><strong>/ECONOMICS_LOGISTICS.md</strong> — Margin modeling, freight reduction, and scale economics.</li>
-  </ul>
+<hr style="border:none;border-top:1px solid #ccc;margin:20px 0;">
 
-  <hr/>
+<p style="margin:0;font-weight:700;">A=A. The protocol is the logic. The platform is the power.</p>
 
-  <h2>6. COMPLIANCE &amp; AUDITS</h2>
-
-  <p>
-    To certify a production run as <strong>UCE™ Compliant</strong>, material should demonstrate:
-  </p>
-
-  <ul>
-    <li><strong>Particle Size:</strong> ≤ 5 μm (D90 target)</li>
-    <li><strong>Thermal Delay:</strong> No visible pigment bleed below 70°C in aqueous systems</li>
-    <li><strong>Shelf Stability:</strong> &lt;3% moisture content with long-term retained color performance</li>
-  </ul>
-
-  <hr/>
-
-  <h2>7. STRATEGIC POSITIONING</h2>
-
-  <ul>
-    <li><strong>Paradox Framing:</strong> Repositions the category from commodity coloring to systems engineering.</li>
-    <li><strong>Engineering Language:</strong> Use of metrics such as D90 signals industrial literacy.</li>
-    <li><strong>Open Spec + Preferred Hardware:</strong> Encourages adoption while steering premium implementations toward Aer.</li>
-  </ul>
-
-  <hr/>
-
-  <p>
-    <strong>A=A.</strong> The protocol is the power. The platform is the profit.
-  </p>
-
-</div>
-
-</P>
+</section>
