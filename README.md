@@ -1,6 +1,6 @@
 <section style="font-family:Arial,Helvetica,sans-serif;color:#111;line-height:1.55;max-width:1100px;margin:auto;padding:24px;background:#fff;">
 
-<p style="margin:0 0 6px 0;font-size:30px;font-weight:700;">Universal Chromatic Engine (UCE™)</p>
+<p style="margin:0 0 6px 0;font-size:30px;font-weight:700;"><b>Universal Chromatic Engine (UCE™)</b></p>
 <p style="margin:0 0 4px 0;font-size:18px;font-weight:600;">The Open Specification for Dry-Phase Biological Pigment Stabilization</p>
 
 <p style="margin:0 0 18px 0;font-size:14px;color:#444;">
